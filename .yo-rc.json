@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": false,
+    "version": "1.15.0",
+    "libraryName": "spfx-forms",
+    "libraryId": "b529741e-4f79-41ca-88b6-7f12142b9128",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-forms",
+    "solutionShortDescription": "spfx-forms description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "custom-form-form-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/customForm/CustomFormFormCustomizer.js",
+          "manifest": "./src/extensions/customForm/CustomFormFormCustomizer.manifest.json"
+        }
+      ]
+    },
+    "list-form-manager-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/listFormManager/ListFormManagerWebPart.js",
+          "manifest": "./src/webparts/listFormManager/ListFormManagerWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "CustomFormFormCustomizerStrings": "lib/extensions/customForm/loc/{locale}.js",
+    "ListFormManagerWebPartStrings": "lib/webparts/listFormManager/loc/{locale}.js"
+  }
+}
