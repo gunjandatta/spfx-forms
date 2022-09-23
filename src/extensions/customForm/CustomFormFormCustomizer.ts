@@ -29,9 +29,6 @@ export default class CustomFormFormCustomizer
   }
 
   public render(): void {
-    // See if we have already rendered the form
-    if (this.domElement.querySelector("form")) { return; }
-
     // Render the custom form webpart
     WebParts.SPFxListFormWebPart({
       envType: Environment.type,
