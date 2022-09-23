@@ -8,6 +8,6 @@ This code sample will utilize the SPFx List Form WebPart component from the [gd-
 
 ## Demo
 
-![Configure List](../wiki/images/demo-config-list.png)
+![Configure List](https://github.com/spfx-forms/wiki/images/demo-config-list.png)
 
-![Custom View Form](../wiki/images/demo-custom-form.png)
+![Custom View Form](https://github.com/spfx-forms/wiki/images/demo-custom-form.png)
