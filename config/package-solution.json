@@ -3,7 +3,7 @@
   "solution": {
     "name": "spfx-forms-client-side-solution",
     "id": "b529741e-4f79-41ca-88b6-7f12142b9128",
-    "version": "1.0.0.0",
+    "version": "1.0.0.3",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
     "isDomainIsolated": false,
